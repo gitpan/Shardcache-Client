@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               Shardcache-Client
-version:            0.01
+version:            0.02
 abstract:           Client library to access shardcache nodes
 author:
     - Andrea Guzzo <xant@cpan.org>
-license:            unknown
+license:            perl
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
