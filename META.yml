@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Shardcache-Client
-version:            0.04
+version:            0.05
 abstract:           Client library to access shardcache nodes
 author:
     - Andrea Guzzo <xant@cpan.org>
